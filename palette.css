@@ -43,14 +43,14 @@
   color: var(--color-accent);
 }
 
-.text-white {
+.text-yellow {
   color: var(--color-yellow);
 }
 
-.text-black {
+.text-orange {
   color: var(--color-orange);
 }
 
-.text-gray {
+.text-black {
   color: var(--color-black);
 }
