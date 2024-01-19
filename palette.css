@@ -2,7 +2,7 @@
   --color-primary: #F00F0F;
   --color-secondary: #14F00F;
   --color-accent: #0F33F0;
-  --color-white: #ECF00F;
+  --color-yellow: #ECF00F;
   --color-black: #F0890F;
   --color-gray: #141414;
 }
@@ -19,16 +19,16 @@
   background-color: var(--color-accent);
 }
 
-.bg-white {
-  background-color: var(--color-white);
+.bg-yellow {
+  background-color: var(--color-yellow);
+}
+
+.bg-orange {
+  background-color: var(--color-orange);
 }
 
 .bg-black {
   background-color: var(--color-black);
-}
-
-.bg-gray {
-  background-color: var(--color-gray);
 }
 
 .text-primary {
