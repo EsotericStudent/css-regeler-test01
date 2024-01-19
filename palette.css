@@ -1,10 +1,10 @@
 :root {
-  --color-primary: #6b043c;
-  --color-secondary: #fad7a2;
-  --color-accent: #97ffd3;
-  --color-white: #f2f2f2;
-  --color-black: #191618;
-  --color-gray: #5d5961;
+  --color-primary: #F00F0F;
+  --color-secondary: #14F00F;
+  --color-accent: #0F33F0;
+  --color-white: #ECF00F;
+  --color-black: #F0890F;
+  --color-gray: #141414;
 }
 
 .bg-primary {
@@ -44,13 +44,13 @@
 }
 
 .text-white {
-  color: var(--color-white);
+  color: var(--color-yellow);
 }
 
 .text-black {
-  color: var(--color-black);
+  color: var(--color-orange);
 }
 
 .text-gray {
-  color: var(--color-gray);
+  color: var(--color-black);
 }
